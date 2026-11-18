@@ -1,6 +1,7 @@
 import socket
 import ssl
 import requests
+import info_Gather
 
 
 def gather_info(domain: str) -> None:
